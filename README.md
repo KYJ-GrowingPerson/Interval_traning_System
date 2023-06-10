@@ -1,7 +1,7 @@
 # Interval_traning_System
 You can see your workout and progress on the window screen and Text To Speech, LCD, and LEDs. Raspberry Pi project that uses a window screen, Text To Speech, LCD, and LEDs.
 
-[![유튜브링크]]((https://youtu.be/ncWoqXjhSyE)
+(https://youtu.be/ncWoqXjhSyE)
 
 # Pose Detection을 이용한 Interval 운동 시스템
 
