@@ -14,8 +14,8 @@ You can see your workout and progress on the window screen and Text To Speech, L
 - 운동을 쉽게 꾸준히 하여 건강을 챙긴다.
 
 ### MediaPipe
-<img scr = "images/mediapipe.png">
-<img scr = "images/poseindicate.png">
+<img src = "images/mediapipe.png">
+<img src = "images/poseindicate.png">
 - Mediapipe의 Pose Detection을 활용해 사람의 신체 부위의 위치를 파악하고, 변화를 인식해, 어떤 운동을 진행하였는지 알 수 있음
 - 특정 자세를 올바르게 유지한 경우에만 초록색 원과 시간의 흐름으로 자세 만족을 알려준다.
 - 자세 종류
@@ -24,7 +24,7 @@ You can see your workout and progress on the window screen and Text To Speech, L
     - 스쿼트
 
 ### Text to Speedch, Picad LCD
-<img scr = "images/LCD.png"
+<img src = "images/LCD.png"
      width = 40%
      height = 40%
      >
