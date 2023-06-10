@@ -1,6 +1,7 @@
 # Interval_traning_System
 You can see your workout and progress on the window screen and Text To Speech, LCD, and LEDs. Raspberry Pi project that uses a window screen, Text To Speech, LCD, and LEDs.
 
+[![유튜브링크]]((https://youtu.be/ncWoqXjhSyE)
 
 # Pose Detection을 이용한 Interval 운동 시스템
 
@@ -15,7 +16,7 @@ You can see your workout and progress on the window screen and Text To Speech, L
 
 ### MediaPipe
 <img src = "images/mediapipe.png">
-<img src = "images/Poseindicate.png">
+<img src = "images/PoseIndicate.png">
 - Mediapipe의 Pose Detection을 활용해 사람의 신체 부위의 위치를 파악하고, 변화를 인식해, 어떤 운동을 진행하였는지 알 수 있음
 - 특정 자세를 올바르게 유지한 경우에만 초록색 원과 시간의 흐름으로 자세 만족을 알려준다.
 - 자세 종류
