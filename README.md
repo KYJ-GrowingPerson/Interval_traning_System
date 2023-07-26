@@ -20,6 +20,7 @@ http://www.ideaboom.net/project/project/view?seq=1159&search_keyword=pose&data_s
 ### MediaPipe
 <img src = "images/mediapipe.png">
 <img src = "images/PoseIndicate.png">
+
 - Mediapipe의 Pose Detection을 활용해 사람의 신체 부위의 위치를 파악하고, 변화를 인식해, 어떤 운동을 진행하였는지 알 수 있음
 - 특정 자세를 올바르게 유지한 경우에만 초록색 원과 시간의 흐름으로 자세 만족을 알려준다.
 - 자세 종류
@@ -30,6 +31,5 @@ http://www.ideaboom.net/project/project/view?seq=1159&search_keyword=pose&data_s
 ### Text to Speedch, Picad LCD
 <img src = "images/LCD.png"
      width = 40%
-     height = 40%
-     >
+     height = 40%>
 - 사용자에게 Text To Speech 와 LCD, LED를 이용해 현재 운동의 진행 상황과 운동순서를 제공한다.
